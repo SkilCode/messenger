@@ -1,0 +1,16 @@
+body {
+ font:24px;
+ font: sans-serif;
+ color: powderblue;
+ background-image: "img.jpg"
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+ .block {
+ font:24px;
+ border-right: solid red 5px;  
+ font: monospace;
+ background: transparent;
+}
